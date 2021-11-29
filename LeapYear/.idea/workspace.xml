@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1188d268-853c-4faa-b2b1-cf0e9bf23cdd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../EqualSumChecker/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FeetAndInchesToCentimeters/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ForLoopIntroduction/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MegaBytesConverter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/NumberInWord.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/src/NumberInWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInAMonth/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInAMonth/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInAMonth/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInAMonth/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInAMonth/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInAMonth/NumberOfDaysInAMonth.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInAMonth/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInAMonth/src/NumberOfDaysInMonth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualSumChecker/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FeetAndInchesToCentimeters/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FeetAndInchesToCentimeters/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MegaBytesConverter/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1188d268-853c-4faa-b2b1-cf0e9bf23cdd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
