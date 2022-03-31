@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        IsPalindrome.isPalindrome(466);
+        NumberPalindrome.isPalindrome(464);
 
     }
 }

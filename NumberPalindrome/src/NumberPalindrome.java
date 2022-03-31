@@ -1,4 +1,4 @@
-public class IsPalindrome {
+public class NumberPalindrome {
     public static boolean isPalindrome(int number) {
         int myInitialAbsoluteNumber = Math.abs(number);
         int myAbsoluteNumber = Math.abs(number);
