@@ -29,7 +29,7 @@ public class FirstLastDigitSum {
                 digitCount++;
                 tempNumber = tempNumber / 10;
                 totalDigits = digitCount;
-            }
+        }
 
             // calculate value of a divisor to isolate the first digit
 

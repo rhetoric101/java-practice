@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        EvenDigitSum.getEvenDigitSum(565);
+        LastDigitChecker.hasSameLastDigit(150, 25, 540);
     }
 }
