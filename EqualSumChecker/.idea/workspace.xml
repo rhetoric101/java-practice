@@ -2,25 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2861c441-e763-4cfe-a526-fe5f8aa32c3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../LeapYear/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/NumberInWord.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberInWord/src/NumberInWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInAMonth/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInAMonth/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInAMonth/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInAMonth/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInAMonth/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInAMonth/NumberOfDaysInAMonth.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInAMonth/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInAMonth/src/NumberOfDaysInMonth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeapYear/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiagonalStar/src/DiagonalStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiagonalStar/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/src/AddTenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScannerTest/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScannerTest/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitSumChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +84,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

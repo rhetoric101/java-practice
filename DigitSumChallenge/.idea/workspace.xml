@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a5a1c65-c3fc-4f07-a9c9-29d04d030e5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberPalindrome/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberPalindrome/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberPalindrome/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberPalindrome/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberPalindrome/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberPalindrome/NumberPalindrome.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberPalindrome/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiagonalStar/src/DiagonalStar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,6 +31,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RunDashboard">
@@ -85,7 +78,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
