@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a5a1c65-c3fc-4f07-a9c9-29d04d030e5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DiagonalStar/src/DiagonalStar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputCalculator/InputCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputCalculator/src/InputCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputCalculator/src/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
