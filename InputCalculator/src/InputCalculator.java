@@ -30,6 +30,6 @@ public class InputCalculator {
     }
 }
 
-//Holy fuck! It took me hours to figure out that I wasn't supposed to print out the headings in the example!
+//Holy cow! It took me hours to figure out that I wasn't supposed to print out the headings in the example!
 //Also, the instructions weren't very clear about how needed to do the math on doubles and
 //then use round on the results, which casts to LONG! OUCH! I flailed on this for hours!!
